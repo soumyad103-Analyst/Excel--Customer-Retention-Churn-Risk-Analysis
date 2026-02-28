@@ -1,4 +1,5 @@
 # Excel-Customer Retention,Churn & Risk Analysis
+Assessed customer churn drivers across geography, age, and product mix; uncovered Germany’s 37.9% churn and 70% inactive-member risk impacting 27% revenue exposure.
 
 The Dataset file is not uploaded due to large file size (160k+ Excel Rows).
 
